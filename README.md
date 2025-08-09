@@ -1,0 +1,2 @@
+# Epileptic-Seizure-Detection-in-EEG-Signals-Using-Machine-Learning-and-Deep-Learning-Techniques
+This project focuses on the analysis of Electroencephalography (EEG) signals to study brain activity patterns and derive meaningful insights for research, medical, or BCI (Brain–Computer Interface) applications. EEG measures electrical activity of the brain using multiple electrodes placed on the scalp, producing multi-channel time-series data.
