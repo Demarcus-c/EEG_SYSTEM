@@ -1,0 +1,36 @@
+# EEG data formats
+*.edf
+*.bdf
+*.gdf
+*.set
+*.fdt
+*.vhdr
+*.vmrk
+*.eeg
+*.dat
+*.mat
+*.csv
+*.tsv
+*.xdf
+*.h5
+*.npy
+*.npz
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
